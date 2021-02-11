@@ -1,0 +1,80 @@
+.logo {
+    padding: 25px;
+    margin: 25px;
+}
+p{
+    padding: 3px;
+    margin: 3px;
+}
+
+.malcolm {
+    border-style: ridge;
+    border-color: gray;
+    border-width: 260px;
+}
+.angus {
+    border-style: ridge;
+    border-color: gray;
+    border-width: 100px;
+}
+.bon {
+    border-style: ridge;
+    border-color: gray;
+    border-width: 260px;
+}
+.phil {
+    border-style: ridge;
+    border-color: gray;
+    border-width: 100px;
+}
+.mark {
+    border-style: ridge;
+    border-color: gray;
+    border-width: 260px;
+}
+
+body {
+    text-align: center;
+    background-color: #262626;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+}
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 5px rosybrown;
+}
+
+.graf {
+   text-align: left;
+}
+
+li {
+    margin-left: 630px;
+}
+
+.container {
+    margin-left: 530px;
+}
+
+#contact-form fieldset {
+    width:40%;
+    border-style: ridge;
+    border-width: 20px;
+}
+#contact-form li {
+    margin:10px; list-style: none;
+}
+#contact-form input  {
+    margin-left:45px; text-align: left;
+}
+#contact-form textarea {
+    margin-left:10px; text-align: left;
+}
+
+.villam {
+    margin: 25px;
+}
